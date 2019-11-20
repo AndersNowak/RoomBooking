@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomBook</string>
+    <string name="swipe_to_login">Swipe to login</string>
+    <string name="todo">TODO</string>
+    <string name="auth_failed" />
+    <string name="minimum_password" />
+</resources>
